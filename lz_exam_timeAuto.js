@@ -7,7 +7,8 @@
 // @match        https://v.lzit.edu.cn/https/*/redir.php*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=lzit.edu.cn
 // @grant        none
-// @require      https://cdn.bootcss.com/jquery/3.4.1/jquery.min.js
+// @license      blessing
+// @require      https://code.jquery.com/jquery-3.7.1.slim.min.js
 // ==/UserScript==
 
 (function () {
